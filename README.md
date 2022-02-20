@@ -14,6 +14,9 @@
 - [PitParser](https://github.com/FergusInLondon/PitParser) - Clibrary for processing Samsung Galaxy PIT files (*C*)
 - [SMBWrapper](https://github.com/FergusInLondon/SMBWrapper), [SMCWrapper](https://github.com/FergusInLondon/SMCWrapper), [SMBIOSParser](https://github.com/FergusInLondon/SMBIOSParser) - various low level parsers for Apple hardware information (*Objective-C* and *C*)
 
+📊 **IoT Prometheus Exporters**
+- [Tapo P110 Smart Socket](https://github.com/FergusInLondon/Tapo-P110-Prometheus-Exporter) - exports energy consumption and uptime.
+
 ⚙️ **Open Hardware**
 - [Wifi-Sec-Monitor](https://github.com/FergusInLondon/wifi-sec-monitor) - WiFi enabled controller for monitoring and managing 12VDC cirtuitry (i.e. a relay array for 12VDC CCTV)
 
